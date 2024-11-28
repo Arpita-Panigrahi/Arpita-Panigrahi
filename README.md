@@ -1,5 +1,6 @@
-# 💫 About Me:
-About Me🌸<br>Hey there 👋 I'm Arpita, a JavaScript fanatic 💻, aspiring data scientist 🤓, and full-time tech explorer 🚀. I thrive on writing elegant JS code, debugging like a pro 🛠️, and experimenting with AI/ML models 🧠✨. Whether it's turning ideas into reality through dynamic web apps or solving real-world problems with data, I’m here for the grind and the growth 🌟.<br><br>Off-screen:<br>☕ A chai-or-coffee person (mood decides the winner)<br>🎶 Always syncing life with the perfect playlist<br>📚 Diving into books or unraveling the mysteries of Indian mythology<br><br>Let’s connect, collaborate, and create something unforgettable 💫<br>
+### 💫 About Me:
+About Me🌸<br>Hey there 👋
+I'm Arpita, a JavaScript fanatic 💻, aspiring data scientist 🤓, and full-time tech explorer 🚀. I thrive on writing elegant JS code, debugging like a pro 🛠️, and experimenting with AI/ML models 🧠✨. Whether it's turning ideas into reality through dynamic web apps or solving real-world problems with data, I’m here for the grind and the growth 🌟.<br><br>Off-screen:<br>☕ A chai-or-coffee person (mood decides the winner)<br>🎶 Always syncing life with the perfect playlist<br>📚 Diving into books or unraveling the mysteries of Indian mythology<br><br>Let’s connect, collaborate, and create something unforgettable 💫<br>
 
 
 ## 🌐 Socials:
