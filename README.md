@@ -2,31 +2,6 @@
 <br>Hey there 👋
 I'm Arpita, a JavaScript fanatic 💻, aspiring data scientist 🤓, and full-time tech explorer 🚀. I thrive on writing elegant JS code, debugging like a pro 🛠️, and experimenting with AI/ML models 🧠✨. Whether it's turning ideas into reality through dynamic web apps or solving real-world problems with data, I’m here for the grind and the growth 🌟.<br><br>Off-screen:<br>☕ A chai-or-coffee person (mood decides the winner)<br>🎶 Always syncing life with the perfect playlist<br>📚 Diving into books or unraveling the mysteries of Indian mythology<br><br>Let’s connect, collaborate, and create something unforgettable 💫<br>
 
-## 🎓 **Education**  
-- **B.Tech in Electrical Engineering** | Parala Maharaja Engineering College *(2020 - 2024, CGPA: 7.8)*  
-<br>  
-
-## 💼 **Internship Experience**  
-### 🔹 **Software Developer Intern** @Hashedbit Innovation (Remote)  
-- Built a hospital website using **React**, **Node.js**, **SQL**, and **Express.js**.  
-- Features include department-specific pages, appointment scheduling, and efficient patient data management.  
-<br>  
-
-### 🔹 **Software Developer Intern** @Zoological Survey of India (Remote)  
-- Developed a species information site with **React**, **Node.js**, and **MongoDB**.  
-- Integrated QR code generation using the **Reed-Solomon Algorithm** for unique species page IDs.  
-<br>  
-
-## 🚀 **Projects**  
-### 🔸 **Hospital Management System**  
-- Streamlined workflows for **patient registration**, **billing**, and **doctor information**.  
-- Improved data accessibility and retrieval through database optimization.  
-<br>  
-
-### 🔸 **HospitalUI**  
-- Designed a responsive hospital portal showcasing **staff profiles** and **specialized care options**.  
-- Enhanced patient interaction with easy navigation and appointment booking features.  
-<br>  
 
 💡 *Always building, always learning!* 🚀  
 ## 🌐 Socials:
