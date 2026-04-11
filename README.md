@@ -35,12 +35,6 @@ I specialize in bridging the gap between research and reality. From engineering 
   <i>Training the future, one epoch at a time!</i> 🚀
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Arpita's GitHub Stats" />
-</p> 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpita-panigrahi-6a753428a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/a_rp_i?t=X1oHq9mOY1C2bZ6XP4uU-Q&s=09) 
-
 # 💻 Tech Stack:
 Python, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, HuggingFace, SQL, Machine Learning, Deep Learning, Computer Vision, NLP, MLflow, Docker, RAG
 # 📊 GitHub Stats:
