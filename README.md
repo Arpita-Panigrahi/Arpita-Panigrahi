@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Vibe-Always%20Building-success?style=for-the-badge&logo=rocket" />
 </p>
 
-I’m an **AI/ML Engineer** 🧠✨ dedicated to translating complex data into digital intuition. While I’m a native speaker of JavaScript 💻, my core logic is written in the Pythonic world of AI 🐍. I live for the "Aha!" moment—whether it’s architecting neural networks, fine-tuning LLMs to perfection, or domesticating wild loss functions 🛠️.
+I’m an **AI/ML Engineer** 🧠✨ dedicated to translating complex data into digital intuition. While I’m a native speaker of JavaScript 💻, my core logic is written in the Pythonic world of AI 🐍.
 
 I specialize in bridging the gap between research and reality. From engineering robust **MLOps pipelines** to deploying scalable models into production environments, I’m here to build the intelligent infrastructure of tomorrow 🚀.
 
